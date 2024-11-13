@@ -307,7 +307,7 @@
             this.button13.AutoSize = true;
             this.button13.BackColor = System.Drawing.Color.Crimson;
             this.button13.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold);
-            this.button13.Location = new System.Drawing.Point(595, 61);
+            this.button13.Location = new System.Drawing.Point(597, 61);
             this.button13.Margin = new System.Windows.Forms.Padding(0);
             this.button13.Name = "button13";
             this.button13.Size = new System.Drawing.Size(133, 46);
